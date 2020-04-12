@@ -1,0 +1,9 @@
+{
+    "name": "aykejriw.github.io",
+    "short_name": "Portfolio",
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "pink",
+    "theme_color": "pink"
+  }
