@@ -73,13 +73,6 @@ p.lead {
   font-size: 3rem;
 }
 
-.tech-icons {
-width: 42px;
-margin-bottom: 14px;
-opacity: 0.5;
-border-radius: 6px;
-}
-
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
