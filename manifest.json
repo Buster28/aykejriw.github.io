@@ -5,6 +5,7 @@
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#BD3859",
+    "theme_color" : "#BD3859",
     "orientation": "portrait",
     "icons": [
       {
