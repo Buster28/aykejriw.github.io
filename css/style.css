@@ -73,8 +73,11 @@ p.lead {
   font-size: 3rem;
 }
 
-.dev-icons .list-inline-item i:hover {
-  color: rgb(189, 56, 89);;
+.tech-icons {
+width: 42px;
+margin-bottom: 14px;
+opacity: 0.5;
+border-radius: 6px;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
